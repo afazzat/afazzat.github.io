@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+title: Abdessamad Fazzat | PhD student in cryptography at Télécom ParisTech and Thales.
+author: Abdessamad Fazzat
+email: afazzat@enst.fr
+description: > 
+    Abdessamad Fazzat. PhD student in cryptography at Télécom ParisTech and Thales..
+url: "http://afazzat.github.io" 
+github_username: afazzat 
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
